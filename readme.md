@@ -37,5 +37,5 @@
 ### 🔧 Клонировать проект
 
 ```bash
-git clone https://github.com/yourusername/VD08_API_class.git
+git clone https://github.com/AlexaPan/VD08_API_class.git
 cd VD08_API_class
